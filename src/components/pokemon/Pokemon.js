@@ -19,7 +19,8 @@ const TYPE_COLORS = {
   psychic: 'ED4882',
   rock: 'B9A156',
   steel: 'B5B5C3',
-  water: '3295F6'
+  water: '3295F6',
+  eheh: 'ffffff'
 };
 
 export default class Pokemon extends Component {
